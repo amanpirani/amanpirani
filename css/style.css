@@ -1236,7 +1236,7 @@ font-family:Marker-Felt;
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(../../photosen/images/banner.jpg);
+		background-image: url(../../images/banner.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -1335,24 +1335,24 @@ font-family:Marker-Felt;
 		}
 		@font-face{
 			font-family:helvetica;
-			src:url(../../photosen/fonts/helvetica.woff);
+			src:url(../../fonts/helvetica.woff);
 		}
 		@font-face{
 			font-family:forte;
-			src:url(../../photosen/fonts/forte.ttf);
+			src:url(../../fonts/forte.ttf);
 		}
 @font-face{
 			font-family:Martina-Regular;
-			src:url(../../photosen/fonts/Martina-Regular.ttf);
+			src:url(../../fonts/Martina-Regular.ttf);
 		}
 
 		@font-face{
 			font-family:Marker-Felt;
-			src:url(../../photosen/fonts/Marker-Felt.ttf);
+			src:url(../../fonts/Marker-Felt.ttf);
 		}
 	@font-face{
 			font-family:LettersforLearners;
-			src:url(../../photosen/fonts/LettersforLearners.ttf);
+			src:url(../../fonts/LettersforLearners.ttf);
 		}
 			
 .feedback {
