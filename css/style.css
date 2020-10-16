@@ -1236,7 +1236,7 @@ font-family:Marker-Felt;
 		height: 75vh;
 		position: relative;
 		background: #000;
-		background-image: url(../../images/banner.jpg);
+		background-image: url(../../amanpirani/images/banner.jpg);
 		background-size: cover;
 		background-attachment: fixed;
 		background-repeat: no-repeat;
@@ -1335,24 +1335,24 @@ font-family:Marker-Felt;
 		}
 		@font-face{
 			font-family:helvetica;
-			src:url(../../fonts/helvetica.woff);
+			src:url(../../amanpirani/fonts/helvetica.woff);
 		}
 		@font-face{
 			font-family:forte;
-			src:url(../../fonts/forte.ttf);
+			src:url(../../amanpirani/fonts/forte.ttf);
 		}
 @font-face{
 			font-family:Martina-Regular;
-			src:url(../../fonts/Martina-Regular.ttf);
+			src:url(../../amanpirani/fonts/Martina-Regular.ttf);
 		}
 
 		@font-face{
 			font-family:Marker-Felt;
-			src:url(../../fonts/Marker-Felt.ttf);
+			src:url(../../amanpirani/fonts/Marker-Felt.ttf);
 		}
 	@font-face{
 			font-family:LettersforLearners;
-			src:url(../../fonts/LettersforLearners.ttf);
+			src:url(../../amanpirani/fonts/LettersforLearners.ttf);
 		}
 			
 .feedback {
